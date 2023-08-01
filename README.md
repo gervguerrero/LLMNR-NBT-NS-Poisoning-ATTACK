@@ -51,4 +51,4 @@ The best defensive approach to prevent LLMNR and NBT-NS poisoning, is a layered 
 2. If it cannot be disabled in the network, implement strong access control with network segregation and subnets. If the attacker is isolated in another network, they cannot perform this attack.
 3. Implement stronger, longer, more complex passwords. The more of these characteristics are implemented in password policy, the longer and harder they will be to crack for an attacker. 
 
-**To view this attack from a Blue Team network defender's perspective, see** [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION).
+🔵 **To view this attack from a Blue Team network defender's perspective, see** [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION). 🔵
