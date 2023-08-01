@@ -45,4 +45,4 @@ Here is the password "Password321" that hash been cracked from the hash:
 ![image](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK/assets/140366635/390d09a4-a432-48b4-acce-8caefd94673e)
 
 
-
+**To view this attack from a Blue Team network defender's perspective, see** [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION).
