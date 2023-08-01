@@ -1,5 +1,4 @@
 # 🟥 LLMNR-NBT-NS-Poisoning-ATTACK 🟥
-LLMNR-NBT-NS Poisoning-ATTACK
 
 This project is a sub-project to my [ESXi-Home-SOC-Lab-Network-Overview](https://github.com/gervguerrero/ESXi-Home-SOC-Lab-Network-Overview).
 
