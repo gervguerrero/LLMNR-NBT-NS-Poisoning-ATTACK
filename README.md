@@ -44,5 +44,11 @@ Here is the password "Password321" that hash been cracked from the hash:
 
 ![image](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-ATTACK/assets/140366635/390d09a4-a432-48b4-acce-8caefd94673e)
 
+## Preventing the Attack 
+
+The best defensive approach to prevent LLMNR and NBT-NS poisoning, is a layered defense approach:
+1. Disable LLMNR/NBTNS.
+2. If it cannot be disabled in the network, implement strong access control with network segregation and subnets. If the attacker is isolated in another network, they cannot perform this attack.
+3. Implement stronger, longer, more complex passwords. The more of these characteristics are implemented in password policy, the longer and harder they will be to crack for an attacker. 
 
 **To view this attack from a Blue Team network defender's perspective, see** [LLMNR-NBT-NS-Poisoning-DETECTION](https://github.com/gervguerrero/LLMNR-NBT-NS-Poisoning-DETECTION).
